@@ -7,6 +7,7 @@ MLX) — then opens them in Xcode. No code ever leaves your machine.
 ![UI Builder](demo/shots/ui-builder.png)
 
 🎬 [Watch the demo](demo/Swiftex-Demo.mp4)
+https://github.com/aiProjectsByDhanajitKapali/swiftex/blob/main/demo/Swiftex-Demo.mp4
 
 ## What it does
 
